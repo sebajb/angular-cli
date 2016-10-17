@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/angular-cli.git"
+    "url": "https://github.com/sebajb/angular/angular-cli.git"
   },
   "engines": {
     "node": ">= 4.1.0",
@@ -36,21 +36,22 @@
   "author": "Angular Authors",
   "contributors": [
     "Rody Haddad <npm@rodyhaddad.com> (http://rodyhaddad.com/)",
-    "Igor Minar <igor@angularjs.org>"
+    "Igor Minar <igor@angularjs.org>",
+    "Seba Jean-Baptiste<sebajb@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angular/angular-cli/issues"
+    "url": "https://github.com/sebajb/angular/angular-cli/issues"
   },
-  "homepage": "https://github.com/angular/angular-cli",
+  "homepage": "https://github.com/sebajb/angular/angular-cli",
   "dependencies": {
     "@angular-cli/ast-tools": "^1.0.0",
-    "@angular/common": "^2.0.0",
-    "@angular/compiler": "^2.0.0",
+    "@angular/common": "^2.1.0",
+    "@angular/compiler": "^2.1.0",
     "@angular/compiler-cli": "^0.6.0",
-    "@angular/core": "^2.0.0",
-    "@angular/platform-browser": "^2.0.0",
-    "@angular/platform-server": "^2.0.0",
+    "@angular/core": "^2.1.0",
+    "@angular/platform-browser": "^2.1.0",
+    "@angular/platform-server": "^2.1.0",
     "@angular/tsc-wrapped": "^0.3.0",
     "angular2-template-loader": "^0.5.0",
     "awesome-typescript-loader": "^2.2.3",
